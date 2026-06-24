@@ -1,0 +1,26 @@
+[
+  {
+    "directory": "/mnt/c/CProjects/Lab5/05-lab-build-make-meson/task04_meson_log_stats/build",
+    "command": "cc -Itask04_logstats.p -I. -I.. -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -O0 -g -MD -MQ task04_logstats.p/main.c.o -MF task04_logstats.p/main.c.o.d -o task04_logstats.p/main.c.o -c ../main.c",
+    "file": "../main.c",
+    "output": "task04_logstats.p/main.c.o"
+  },
+  {
+    "directory": "/mnt/c/CProjects/Lab5/05-lab-build-make-meson/task04_meson_log_stats/build",
+    "command": "cc -Itask04_logstats.p -I. -I.. -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -O0 -g -MD -MQ task04_logstats.p/log_stats.c.o -MF task04_logstats.p/log_stats.c.o.d -o task04_logstats.p/log_stats.c.o -c ../log_stats.c",
+    "file": "../log_stats.c",
+    "output": "task04_logstats.p/log_stats.c.o"
+  },
+  {
+    "directory": "/mnt/c/CProjects/Lab5/05-lab-build-make-meson/task04_meson_log_stats/build",
+    "command": "cc -Itask04_logstats_copy.p -I. -I.. -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -O0 -g -MD -MQ task04_logstats_copy.p/main.c.o -MF task04_logstats_copy.p/main.c.o.d -o task04_logstats_copy.p/main.c.o -c ../main.c",
+    "file": "../main.c",
+    "output": "task04_logstats_copy.p/main.c.o"
+  },
+  {
+    "directory": "/mnt/c/CProjects/Lab5/05-lab-build-make-meson/task04_meson_log_stats/build",
+    "command": "cc -Itask04_logstats_copy.p -I. -I.. -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -O0 -g -MD -MQ task04_logstats_copy.p/log_stats.c.o -MF task04_logstats_copy.p/log_stats.c.o.d -o task04_logstats_copy.p/log_stats.c.o -c ../log_stats.c",
+    "file": "../log_stats.c",
+    "output": "task04_logstats_copy.p/log_stats.c.o"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "directory": "/mnt/c/CProjects/Lab5/05-lab-build-make-meson/task03_meson_matrix_stats/build",
+    "command": "cc -Itask03_matrix_v2.p -I. -I.. -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -O0 -g -MD -MQ task03_matrix_v2.p/main.c.o -MF task03_matrix_v2.p/main.c.o.d -o task03_matrix_v2.p/main.c.o -c ../main.c",
+    "file": "../main.c",
+    "output": "task03_matrix_v2.p/main.c.o"
+  },
+  {
+    "directory": "/mnt/c/CProjects/Lab5/05-lab-build-make-meson/task03_meson_matrix_stats/build",
+    "command": "cc -Itask03_matrix_v2.p -I. -I.. -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -std=c11 -O0 -g -MD -MQ task03_matrix_v2.p/matrix_stats.c.o -MF task03_matrix_v2.p/matrix_stats.c.o.d -o task03_matrix_v2.p/matrix_stats.c.o -c ../matrix_stats.c",
+    "file": "../matrix_stats.c",
+    "output": "task03_matrix_v2.p/matrix_stats.c.o"
+  }
+]
